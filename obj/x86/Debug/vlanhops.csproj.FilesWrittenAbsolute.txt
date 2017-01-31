@@ -1,0 +1,6 @@
+/home/ashr/dev/linux-dotnet/batches/vlanhops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ashr/dev/linux-dotnet/batches/vlanhops/bin/Debug/vlanhops.exe.mdb
+/home/ashr/dev/linux-dotnet/batches/vlanhops/bin/Debug/vlanhops.exe
+/home/ashr/dev/linux-dotnet/batches/vlanhops/obj/x86/Debug/vlanhops.exe
+/home/ashr/dev/linux-dotnet/batches/vlanhops/obj/x86/Debug/vlanhops.exe.mdb
+/home/ashr/dev/linux-dotnet/batches/vlanhops/bin/Debug/libMonoPosixHelper.so

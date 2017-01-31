@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="vlanhops.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/ashr/dev/linux-dotnet/batches/vlanhops/Program.cs" line="15" column="8" />
+      <Breakpoint file="/home/ashr/dev/linux-dotnet/batches/vlanhops/Program.cs" line="50" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
